@@ -1,0 +1,6 @@
+==========Student Grade Management System==========
+[{'name': 'Muhape', 'score': 99, 'Grade': 'A'}]
+[{'name': 'Muhape', 'score': 99, 'Grade': 'A'}, {'name': 'Aizen', 'score': 89, 'Grade': 'B'}]
+[{'name': 'Muhape', 'score': 99, 'Grade': 'A'}, {'name': 'Aizen', 'score': 89, 'Grade': 'B'}, {'name': 'Hunter', 'score': 79, 'Grade': 'C'}]
+[{'name': 'Muhape', 'score': 99, 'Grade': 'A'}, {'name': 'Aizen', 'score': 89, 'Grade': 'B'}, {'name': 'Hunter', 'score': 79, 'Grade': 'C'}, {'name': 'Uche', 'score': 87, 'Grade': 'B'}]
+[{'name': 'Muhape', 'score': 99, 'Grade': 'A'}, {'name': 'Aizen', 'score': 89, 'Grade': 'B'}, {'name': 'Hunter', 'score': 79, 'Grade': 'C'}, {'name': 'Uche', 'score': 87, 'Grade': 'B'}, {'name': 'Saint', 'score': 60, 'Grade': 'D'}]

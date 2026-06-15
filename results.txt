@@ -1,0 +1,3 @@
+Students information:[{'name': 'Muhape', 'scores': 96, 'grade': 'A'}, {'name': 'David', 'scores': 80, 'grade': 'B'}, {'name': 'Thomas', 'scores': 48, 'grade': 'F'}, {'name': 'Allie', 'scores': 58, 'grade': 'F'}, {'name': 'Hannah', 'scores': 92, 'grade': 'A'}]
+passed = 3
+failed = 2

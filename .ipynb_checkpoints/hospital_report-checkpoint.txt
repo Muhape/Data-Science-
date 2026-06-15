@@ -1,0 +1,2 @@
+==========HOSPITAL REPORT==========
+3[{'name': 'Muhape', 'age': 19, 'temperature': 36.5, 'bp': 102}, {'name': 'John', 'age': 38, 'temperature': 41.2, 'bp': 120}, {'name': 'Carle', 'age': 27, 'temperature': 38.3, 'bp': 118}]=====================================

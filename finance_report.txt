@@ -1,0 +1,10 @@
+========== Personal Finance Tracker ==========
+
+Income is 25000, Expenses are 20000. The total balance here is 45000
+Income is 45000, Expenses are 32000. The total balance here is 77000
+Income is 75000, Expenses are 48000. The total balance here is 123000
+Income is 78000, Expenses are 70000. The total balance here is 148000
+The total overall Income  is 223000
+The total overall Expenses  is 170000
+The total overall balance  is 393000
+You're in Profit, Good Job

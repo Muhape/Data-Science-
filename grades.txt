@@ -1,0 +1,7 @@
+==========Student Grade Management System==========
+Student name:Muhape|Student score:98|Student Grade:A
+Student name:Aizen|Student score:89|Student Grade:B
+Student name:Emmyxx |Student score:92|Student Grade:A
+Student name:Hunter|Student score:84|Student Grade:B
+Student name:Uche|Student score:49|Student Grade:F
+Student name:Saint|Student score:73|Student Grade:C

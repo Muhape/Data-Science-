@@ -1,0 +1,6 @@
+Patient name:Ismail
+Patient age:24
+Patient Diagnosis:Malaria
+Patient name:Basit
+Patient age:28
+Patient Diagnosis:Typhoid
